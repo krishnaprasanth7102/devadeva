@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mainclass{
+    width: 100%;
+    height: 100%;
+    background: url(./img/158467.jpg);
+    background-size: cover;
+}
+.head{
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+}
+.icon img{
+    width: 10%;
+    height: 100px;
+    float: left;
+}
+.link a{
+    color: floralwhite;
+    text-decoration: none;
+    margin: 10px;
+    border: 1px solid white;
+    float:left;
+    padding: 5px;
+}
+.link a:hover{
+    background-color: black;
+}
+.link {
+    float:left;
+}
+h1{
+    color: red;
+    margin-left: 550px;
+    margin-top: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 39px;
+
+}
+p{
+    color: red;
+}
+.login{
+    color: beige;
+    text-decoration: none;
+    margin: 1px;
+    float: right;
+    padding: 5px;
+    border: 2px solid snow;
+}
+
+.courses{
+    color: red;
+    width: 23%;
+    height: 7%;
+    background-color: blue;
+    padding: 5px;
+    margin-bottom:15px;
+
+}
+.courses2{
+    color: red;
+    width: 23%;
+    height: 50pxs;
+    background-color: blue;
+    padding: 5px;
+    margin-top: -420px;
+    margin-left: 350px;
+}
+.courses3{
+    color: red;
+    width: 23%;
+    height: 50pxs;
+    background-color: blue;
+    padding: 5px;
+    margin-top: -436px;
+    margin-left: 685px;
+}
+.courses4{
+    color: red;
+    width: 23%;
+    height: 50pxs;
+    background-color: blue;
+    padding: 5px;
+    margin-top: -436px;
+    margin-left: 1022px;
+}
+.footer{
+    width: 100%;
+    height: 50px;
+    margin-top: 190px;
+    background-color: blue;
+}
+footer{
+    align-items: center;
+}
+footer h3{
+    margin-left:45%;
+    margin-bottom:0px;
+}
+mainclass{
+    background-size: cover;
+}
+
